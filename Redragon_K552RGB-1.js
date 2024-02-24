@@ -2,7 +2,7 @@ export function Name() { return "Redragon K556/K582 Keyboard"; }
 export function Version() { return "1.1.6"; }
 export function VendorId() { return 0x0c45; }
 export function ProductId() { return 0x5004; }
-export function Publisher() { return "WhirlwindFX"; }
+export function Publisher() { return "_Teric"; }
 export function Documentation(){ return "qmk/redragon-k556-k582"; }
 export function Size() { return [21, 6]; }
 export function DefaultPosition(){return [10, 100]; }
